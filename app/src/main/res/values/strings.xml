@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NoteApp</string>
+    <string name="add_button_desc">Add new item</string>
+</resources>
